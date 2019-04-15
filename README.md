@@ -152,11 +152,11 @@ TBD
 
 ## IMPORTANT DATES
 
-Jan15: Pre-submission registration
-Jan27: Submission deadline
-Feb01: Review period (\*)
-Feb20: Rebuttal period ends.
-Feb24: Notifications
+Jan15: Pre-submission registration   
+Jan27: Submission deadline   
+Feb01: Review period (\*)   
+Feb20: Rebuttal period ends.   
+Feb24: Notifications   
 Feb25: Send list of artifacts badges to web chairs and proceeding chairs
 
 (\*) : For the available and reusable badges, reviewing will be on Github with reviewers commenting via anonymous Github ids. Authors should not comment until
