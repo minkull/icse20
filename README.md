@@ -1,12 +1,12 @@
 # ICSE'20 Artifact Track: Call for Submissions
 
-Authors of **papers accepted to the Technical Track** are invited to submit an artifact to the ICSE Artifact Track
-for evaluation as a candidate **reusable, available** artifact.
+Authors of **papers accepted to the 2020 Technical Track** are invited to submit an artifact to the ICSE Artifact Track
+for evaluation as a candidate **reusable, available, replicated or reproduced** artifact.
 If the artifact is accepted it will receive one of the following badges on the front page of their paper and in the proceedings.
 
 Authors of any prior SE work are 
 are invited to submit an artifact to the ICSE Artifact Track
-for evaluation as a candidate **replicated, reproduced** artifact.
+for evaluation as a candidate **replicated or reproduced** artifact.
 If the artifact is accepted:
 
 - Authors will be invited to give a lightning talk on this work at ICSE'20
