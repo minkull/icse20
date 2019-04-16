@@ -1,16 +1,15 @@
 # ICSE'20 Artifact Track: Call for Submissions
 
-Authors of **papers accepted to the Technical Track** are invited to submit an artifact to the ICSE Artifact Track
-for evaluation as a candidate **reusable, available** artifact.
-If the artifact is accepted it will receive one of the following badges on the front page of their paper and in the proceedings.
+Authors of **papers accepted to the 2020 Technical Track** are invited to submit an artifact to the ICSE Artifact Track
+for evaluation as a candidate **reusable, available, replicated or reproduced** artifact.
+If the artifact is accepted it will receive one of the badges below on the front page of their paper and in the proceedings.
 
-Authors of any prior SE work are 
-are invited to submit an artifact to the ICSE Artifact Track
-for evaluation as a candidate **replicated, reproduced** artifact.
+Authors of any prior SE work (published at ICSE or elsewhere) are are invited to submit an artifact to the ICSE Artifact Track
+for evaluation as a candidate **replicated or reproduced** artifact.
 If the artifact is accepted:
 
 - Authors will be invited to give a lightning talk on this work at ICSE'20
-- We will work with the IEEE Xplore and ACM Portal administrator to add badge the electronic version of their paper.
+- We will work with the IEEE Xplore and ACM Portal administrator to add a badge to the electronic version of their paper.
 
 <table>
 <thead></thead>
@@ -43,7 +42,7 @@ The goal of this track is to encourage reusable research products. Hence, no **f
 
 ## Best Artifact Awards
 
-There will be two ICSE 2019 Best Artifact Awards to recognize the effort of authors creating and sharing outstanding research artifacts.
+There will be two ICSE 2020 Best Artifact Awards to recognize the effort of authors creating and sharing outstanding research artifacts.
 
 ## Submission and Review
 
@@ -55,19 +54,21 @@ For the badges “replicated” and “reproduced” authors will need to offer 
 
 For these badges, the submission process is to offer a one page (max) abstract in PDF format:
 
-- TITLE: **A (Partial)? (Replication|Reproduction) of XYZ**. Please add the term **partial**to your title if only some of the original work could be replicated/reproduced.
+- TITLE: **A (Partial)? (Replication|Reproduction) of XYZ**. Please add the term **partial** to your title if only some of the original work could be replicated/reproduced.
 - WHO: name the original authors (and paper) and the authors that performed the replication/reproduction.
   Include contact information (emails). Mark one author as the corresponding author.
 - WHAT: describe the "thing" being replicated/reproduced;
 - WHY: clearly state why that "thing" is interesting/important;
-- HOW: say how it was done first
+- HOW: say how it was done first;
 - WHERE: describe the replication/reproduction. If the replication/reproduction was only partial, then explain what parts could be achieved or had to be missed.
-- DISCUSSION: What aspects of this thing made it easier/harder to replicate/reproduce. What are the lessons learned from this work that would enable more replication/reproduction in the future for other kinds of tasks or other kinds of research.
+- DISCUSSION: What aspects of this "thing" made it easier/harder to replicate/reproduce. What are the lessons learned from this work that would enable more replication/reproduction in the future for other kinds of tasks or other kinds of research.
 
-2 PC members will review each abstract, possibly reaching out to the authors of the original Paper1. Abstracts will be ranked as follows.
+By January 15, 2020 register your research artifact at the ICSE submission site (URL TBD) by submitting the abstract. 
+
+Two PC members will review each abstract, possibly reaching out to the authors of the abstract or original paper. Abstracts will be ranked as follows.
 
 - If pc members do not find sufficient substantive evidence for replication/reproduction, the abstract will be rejected.
-- Any abstract that is overly critical of prior work, it will be rejected (\*).
+- Any abstract that is overly critical of prior work will be rejected (\*).
 - The remaining abstracts will be sorted according to (a) interestingness and (b) correctness.
 - The top ranked abstracts will be invited to give lightning talks.
 
@@ -78,6 +79,7 @@ to the work they are reproducing/replicating. Criticisms of prior work
 is acceptable only as part of a balanced and substantive discussion of
 prior accomplishments.
 
+For replicated and reproduced  badges, results will be notified at the end of the reviewing process.
 
 ### For Reusable and Available Badgers
 
@@ -121,15 +123,10 @@ The authors need to write and submit a documentation explaining how to obtain th
 
 By January 15, 2020 register your research artifact at the ICSE submission site (URL TBD) by submitting an abstract describing your artifact. The abstract should include the paper title, the purpose of the research artifact, the badge(s) you are claiming, and the technology skills assumed by the reviewer evaluating the artifact. Please also mention if running your artifact requires specific Operation Systems or other environments.
 
-By January 27, 2020 complete your artifact submission by uploading the materials described above. **IMPORTANT NOTE**: recall from
-the above above that different badges require different materials.
+By January 27, 2020 complete your artifact submission by uploading the materials described above. Authors submitting an open source repository link, are expected to give a tag to time-stamp your submission. This tag should be added to README.md.  
 
-For replicated and  reproduced  badges, results will be notified at the end of the reviewing process.
+For reusable and available badges, the review process will be interactive as follows:
 
-For reusable and available badges, the review process will be interactive.
-
-- Reviewing will be on Github with reviewers commenting via anonymous Github ids. Authors should not comment until
-at least two reviewers have added comments. Earlier author comments will be deleted.
 - Prior to reviewing, there may be some interactions to handle set up and install.
 Before the actual evaluation reviewers will check the integrity of the
 artifact and look for any possible setup problems that may prevent it from
@@ -137,13 +134,13 @@ being properly evaluated (e.g., corrupted or missing files, VM won’t
 start, immediate crashes on the simplest example, etc.). The Evaluation
 Committee may contact the authors to request
 clarifications on the basic installation and start-up procedures or to
-resolve simple installation problems. Authors are informed of the outcome
-and, in case of technical problems, they can help solve them during a
-brief author response period. Given the short review time available,
-the authors are expected to respond within a 48-hour period. Authors may
-update their research artifact after submission only for changes requested
-by reviewers in the rebuttal phase. Author submitting an open source
-repository link, are expected to give a tag to time-stamp your submission.
+resolve simple installation problems. 
+- Reviewing will be on Github with reviewers commenting via anonymous Github ids. Authors should not comment until
+at least two reviewers have added comments. Earlier author comments will be deleted.
+- Authors are informed of the outcome and, in case of technical problems, they can help solve them during a
+brief 48-hour author response period. Authors may update their research artifact after submission only for changes requested
+by reviewers in the rebuttal phase. 
+
 
 
 ## REVIEW COMMITTEE
